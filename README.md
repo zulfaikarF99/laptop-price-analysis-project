@@ -1,7 +1,7 @@
 # laptop-price-analysis-project
 This project aims to conducted Exploratory Data Analysis (EDA) laptops from laptop prices dataset. The project also aimed to identify distribution on brands, prices, and specifications of laptops.
 
-#Number of Laptops by Brand
+# Number of Laptops by Brand
 ![image](https://github.com/zulfaikarF99/laptop-price-analysis-project/assets/101247674/90cbcef5-cc44-495b-b0a0-2063084b5c23)
 Based on the results, there are 3 laptop brands that are most sold including of Dell, Lenovo and HP.
 
